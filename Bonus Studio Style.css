@@ -1,0 +1,12 @@
+body {
+    background-color:darkgray;
+  }
+form {
+    font-weight: 800;
+    font-size: 20px;
+    font-style: bold;
+    margin-top: 1in;
+    margin-left: 0.25in;
+    margin-right: 7in;
+    border-style: double
+}
